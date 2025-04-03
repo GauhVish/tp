@@ -368,7 +368,7 @@ Priorities: High (must have) - `* * *`, Medium (nice to have) - `* *`, Low (unli
 
 **MSS**
 1. User requests to add an applicant
-1. QuickHire adds a new applicant
+2. QuickHire adds a new applicant
 
    Use case ends.
 
@@ -560,6 +560,7 @@ Given below are instructions to test the app manually.
 testers are expected to do more *exploratory* testing.
 
 </box> 
+
 
 
 ### Launch and shutdown
